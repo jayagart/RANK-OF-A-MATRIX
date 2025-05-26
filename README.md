@@ -1,4 +1,6 @@
 # RANK-OF-A-MATRIX
+## NAME: Jayagar.T
+## REG.NO: 212224220042
 ## Aim:
 To write a python program to find the rank of a matrix
 ## Equipment’s required:
